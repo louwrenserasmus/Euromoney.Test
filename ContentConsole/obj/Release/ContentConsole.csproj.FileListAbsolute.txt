@@ -1,0 +1,8 @@
+C:\Users\Candi\Documents\Visual Studio 2012\Projects\ContentConsole\ContentConsole\bin\Release\ContentConsole.exe.config
+C:\Users\Candi\Documents\Visual Studio 2012\Projects\ContentConsole\ContentConsole\bin\Release\ContentConsole.exe
+C:\Users\Candi\Documents\Visual Studio 2012\Projects\ContentConsole\ContentConsole\bin\Release\ContentConsole.pdb
+C:\Users\Candi\Documents\Visual Studio 2012\Projects\ContentConsole\ContentConsole\obj\Release\ContentConsole.exe
+C:\Users\Candi\Documents\Visual Studio 2012\Projects\ContentConsole\ContentConsole\obj\Release\ContentConsole.pdb
+C:\Users\Candi\Desktop\Euromoney - ContentConsole - Louwrens Erasmus\ContentConsole\ContentConsole\bin\Release\ContentConsole.exe.config
+C:\Users\Candi\Desktop\Euromoney - ContentConsole - Louwrens Erasmus\ContentConsole\ContentConsole\obj\Release\ContentConsole.exe
+C:\Users\Candi\Desktop\Euromoney - ContentConsole - Louwrens Erasmus\ContentConsole\ContentConsole\obj\Release\ContentConsole.pdb

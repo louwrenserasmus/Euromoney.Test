@@ -1,0 +1,9 @@
+C:\Users\Candi\Documents\Visual Studio 2012\Projects\ContentConsole\ContentConsoleTests\bin\Release\ContentConsoleTests.dll
+C:\Users\Candi\Documents\Visual Studio 2012\Projects\ContentConsole\ContentConsoleTests\bin\Release\ContentConsoleTests.pdb
+C:\Users\Candi\Documents\Visual Studio 2012\Projects\ContentConsole\ContentConsoleTests\bin\Release\ContentConsole.exe
+C:\Users\Candi\Documents\Visual Studio 2012\Projects\ContentConsole\ContentConsoleTests\bin\Release\nunit.framework.dll
+C:\Users\Candi\Documents\Visual Studio 2012\Projects\ContentConsole\ContentConsoleTests\bin\Release\ContentConsole.pdb
+C:\Users\Candi\Documents\Visual Studio 2012\Projects\ContentConsole\ContentConsoleTests\bin\Release\nunit.framework.xml
+C:\Users\Candi\Documents\Visual Studio 2012\Projects\ContentConsole\ContentConsoleTests\obj\Release\ContentConsoleTests.csprojResolveAssemblyReference.cache
+C:\Users\Candi\Documents\Visual Studio 2012\Projects\ContentConsole\ContentConsoleTests\obj\Release\ContentConsoleTests.dll
+C:\Users\Candi\Documents\Visual Studio 2012\Projects\ContentConsole\ContentConsoleTests\obj\Release\ContentConsoleTests.pdb

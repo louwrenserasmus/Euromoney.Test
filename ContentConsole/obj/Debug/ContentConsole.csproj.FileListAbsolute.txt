@@ -1,0 +1,9 @@
+c:\users\candi\documents\visual studio 2012\Projects\ContentConsole\ContentConsole\bin\Debug\ContentConsole.exe.config
+c:\users\candi\documents\visual studio 2012\Projects\ContentConsole\ContentConsole\obj\Debug\ContentConsole.csprojResolveAssemblyReference.cache
+c:\users\candi\documents\visual studio 2012\Projects\ContentConsole\ContentConsole\bin\Debug\ContentConsole.exe
+c:\users\candi\documents\visual studio 2012\Projects\ContentConsole\ContentConsole\bin\Debug\ContentConsole.pdb
+c:\users\candi\documents\visual studio 2012\Projects\ContentConsole\ContentConsole\obj\Debug\ContentConsole.exe
+c:\users\candi\documents\visual studio 2012\Projects\ContentConsole\ContentConsole\obj\Debug\ContentConsole.pdb
+C:\Users\Candi\Desktop\Euromoney - ContentConsole - Louwrens Erasmus\ContentConsole\ContentConsole\bin\Debug\ContentConsole.exe.config
+C:\Users\Candi\Desktop\Euromoney - ContentConsole - Louwrens Erasmus\ContentConsole\ContentConsole\obj\Debug\ContentConsole.exe
+C:\Users\Candi\Desktop\Euromoney - ContentConsole - Louwrens Erasmus\ContentConsole\ContentConsole\obj\Debug\ContentConsole.pdb
